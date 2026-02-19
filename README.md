@@ -12,12 +12,9 @@
 - [Books I have read](#books-i-have-read)
 
 ## About me
+I am a detail-oriented professional transitioning from a healthcare background into Quality Assurance. As an Assistant Nurse, in 12 years, I developed strong analytical skills, accuracy, and a high sense of responsibility.
 
-I am a positive-thinking person who possesses two sides of power. On one hand, I am organised, structured and attentive to detail due to my background as a research chemist. And on the other, due to my personality, I love to communicate with people and solve problems.
-
-I got my Master's Degree from the University of Eastern Finland and have been a PhD fellow at the University of Jyväskylä for 3 years. My research field was computational physical chemistry, which involved modelling of chemical reactions through massively-parallel computing.
-
-Now, I wish to exploit my research and analytical skills in software testing. Currently, I am intensively studying techniques and tools by attending online courses and testing web applications created for learning purposes.
+To begin my career in QA, I worked as a volunteer within the Opportunities and Careers Association, where I gained hands-on experience in software testing. I learned different types of testing, how to write and execute test cases, and how to identify and report bugs clearly. This experience strengthened my attention to detail, problem-solving skills, and understanding of the QA process. Currently, I am intensively studying techniques and tools by attending online courses and testing web applications created for learning purposes.
 
 I would be extremely happy to apply obtained knowledge to testing an operational product and gain hands-on experience. It is a crucial step in my current career goal — to become a mid-level software tester in 2 years.
 
