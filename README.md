@@ -16,7 +16,7 @@ I am a detail-oriented professional transitioning from a healthcare background i
 
 To begin my career in QA, I worked as a volunteer within the Opportunities and Careers Association, where I gained hands-on experience in software testing. I learned different types of testing, how to write and execute test cases, and how to identify and report bugs clearly. This experience strengthened my attention to detail, problem-solving skills, and understanding of the QA process. Currently, I am intensively studying techniques and tools by attending online courses and testing web applications created for learning purposes.
 
-I would be extremely happy to apply obtained knowledge to testing an operational product and gain hands-on experience. It is a crucial step in my current career goal — to become a mid-level software tester in 2 years.
+My goal is to contribute to delivering reliable, user-friendly products while growing professionally as a QA Tester.
 
 ## CV
 You can download my CV as [a PDF from my Google Drive](https://drive.google.com/file/d/11FJNgtF8fAgEQIFJ0aA9S9O8_6_7Jgp-/view?usp=sharing).
@@ -57,26 +57,35 @@ __Python fundamentals__
 
 ## Tools
 
-__TestRail__
-  * know how to create test cases and test suits
-  * able to run created test cases
-  * know how to use dashboards and statistics
+__Github__
+  * Created and documented manual test cases in GitHub for the AOC website, covering functional and UI scenarios
+  * Performed different types of testing such as functional testing, compatibility testing, regression testing, and exploratory testing
+  * Executed test cases and validated website functionality across different user flows
+  * Identified, documented, and tracked bugs and defects using GitHub Issues
+  * Wrote structured bug reports, including steps to reproduce, expected vs actual results, and severity
+  * Added labels and priorities to bug reports
+  * Organized testing activities using Agile methodology, creating sprints and managing tasks in GitHub Projects
+  * Collaborated with team members by updating issue statuses and providing testing feedback
+  * Structured repository with folders: TestCases, BugReports, TestPlans
 
 __Jira__
   * know how to create bug reports
   * able to create projects and track their progress
 
-__SoapUI__
+__Postman__
 
 __Browser developer tools__
 
-__VirtualBox__
+__Swagger__
   * able to set up and operate virtual machines
 
 __Trello and Notion__
   * know how to use Kanban boards and track project progress
 
-__Mind maps & diagrams__
+__Playwright__
+  * know how to design beautifully simple mind maps
+
+__Selenium__
   * know how to design beautifully simple mind maps
 
 ## Courses
