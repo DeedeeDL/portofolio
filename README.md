@@ -16,7 +16,7 @@ A dedicated and enthusiastic professional who values teamwork, responsibility, a
 My goal is to contribute to delivering reliable, user-friendly products while growing professionally as a QA Tester.
 
 ## CV
-You can download my CV as [a PDF from my Google Drive](https://drive.google.com/file/d/11FJNgtF8fAgEQIFJ0aA9S9O8_6_7Jgp-/view?usp=sharing).
+You can download my CV as [a PDF from my Google Drive](https://drive.google.com/file/d/1z2NX0anojgoC1Z5WynBblNRUM0EdR5bZ/view?usp=drive_link).
 
 ## Skills
 
