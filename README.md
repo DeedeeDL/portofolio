@@ -12,10 +12,7 @@
 - [Books I have read](#books-i-have-read)
 
 ## About me
-I am a detail-oriented professional transitioning from a healthcare background into Quality Assurance. As an Assistant Nurse, in 12 years, I developed strong analytical skills, accuracy, and a high sense of responsibility.
-
-To begin my career in QA, I worked as a volunteer within the Opportunities and Careers Association, where I gained hands-on experience in software testing. I learned different types of testing, how to write and execute test cases, and how to identify and report bugs clearly. This experience strengthened my attention to detail, problem-solving skills, and understanding of the QA process. Currently, I am intensively studying techniques and tools by attending online courses and testing web applications created for learning purposes.
-
+A dedicated and enthusiastic professional who values teamwork, responsibility, and continuous improvement.I have experience as a QA Tester, focusing on writing and executing test cases, reporting bugs, and using tools such as Jira, Postman and GitHub. I am involved in functional, UX testing, as well as API testing. I communicate well within the team, adapt easily, and have basic experience with test automation using Selenium, Playwright, Python and Javascript.
 My goal is to contribute to delivering reliable, user-friendly products while growing professionally as a QA Tester.
 
 ## CV
